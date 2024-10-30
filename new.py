@@ -1,6 +1,10 @@
 def some():
-  pass
+    pass
 
 
 def new():
-  pass
+    pass
+
+
+def add():
+    pass
