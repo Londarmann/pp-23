@@ -12,7 +12,6 @@ def calculate(csv_location):
         for row in csv_read:
             values = row.strip().split(",")
 
-
             student_name = values[name_index]
             student_score = int(values[scores_index])
             if student_name in student_scores:
@@ -24,11 +23,12 @@ def calculate(csv_location):
     return average
 
 
-
 print(calculate('new_csv.csv'))
+
 
 def main():
     pass
+
 
 def test():
     pass
