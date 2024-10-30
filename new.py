@@ -3,4 +3,4 @@ def some():
 
 
 def new():
-  pass
+  passa
