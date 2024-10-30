@@ -27,3 +27,5 @@ def calculate(csv_location):
 
 print(calculate('new_csv.csv'))
 
+def main():
+    pass
