@@ -29,3 +29,6 @@ print(calculate('new_csv.csv'))
 
 def main():
     pass
+
+def test():
+    pass
